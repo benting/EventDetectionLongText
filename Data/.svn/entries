@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="321"
+   name=""
+   committed-date="2012-11-03T14:53:12.699776Z"
+   url="http://202.117.16.191/svn/summary/%E4%B8%AA%E4%BA%BA%E6%96%87%E4%BB%B6%E5%A4%B9/WorkspaceOfBen/EventExtractionV0.2/Data"
+   last-author="yejunting"
+   kind="dir"
+   repos="http://202.117.16.191/svn/summary"
+   revision="321"/>
+<entry
+   committed-rev="321"
+   name="character.idx"
+   text-time="2011-01-24T01:56:32.000000Z"
+   committed-date="2012-11-03T14:53:12.699776Z"
+   checksum="2f16bd7e4122e435501f259924083b83"
+   last-author="yejunting"
+   kind="file"
+   prop-time="2012-11-03T14:38:07.776625Z"/>
+<entry
+   committed-rev="321"
+   name="nr.role"
+   text-time="2011-01-10T05:47:52.000000Z"
+   committed-date="2012-11-03T14:53:12.699776Z"
+   checksum="a81accb3c821232fa3129f68c3202805"
+   last-author="yejunting"
+   kind="file"
+   prop-time="2012-11-03T14:37:56.085956Z"/>
+<entry
+   committed-rev="321"
+   name="ICTCLAS30.ctx"
+   text-time="2011-01-10T05:47:52.000000Z"
+   committed-date="2012-11-03T14:53:12.699776Z"
+   checksum="6f3c648173d8a8c9175ff41502c34c06"
+   last-author="yejunting"
+   kind="file"
+   prop-time="2012-11-03T14:38:09.943749Z"/>
+<entry
+   committed-rev="321"
+   name="PKU_First.map"
+   text-time="2011-01-10T05:47:52.000000Z"
+   committed-date="2012-11-03T14:53:12.699776Z"
+   checksum="274bf359750e853271b6cd5e84c86a82"
+   last-author="yejunting"
+   kind="file"/>
+<entry
+   committed-rev="321"
+   name="GranDict.pdat"
+   text-time="2011-01-10T05:47:52.000000Z"
+   committed-date="2012-11-03T14:53:12.699776Z"
+   checksum="8d5dde69eafce2283f7b4217ddb81e5e"
+   last-author="yejunting"
+   kind="file"
+   prop-time="2012-11-03T14:38:07.551612Z"/>
+<entry
+   committed-rev="321"
+   name="CoreDict.pdat"
+   text-time="2011-01-10T05:47:52.000000Z"
+   committed-date="2012-11-03T14:53:12.699776Z"
+   checksum="27af0a4bac589759d18355edfc124883"
+   last-author="yejunting"
+   kind="file"
+   prop-time="2012-11-03T14:37:57.190020Z"/>
+<entry
+   committed-rev="321"
+   name="BiWord.big"
+   text-time="2011-01-10T05:47:52.000000Z"
+   committed-date="2012-11-03T14:53:12.699776Z"
+   checksum="f508c5fa4d67f9ab1c70b0ea3df76de9"
+   last-author="yejunting"
+   kind="file"
+   prop-time="2012-11-03T14:37:57.534039Z"/>
+<entry
+   committed-rev="321"
+   name="FieldDict.pos"
+   text-time="2011-01-10T05:47:52.000000Z"
+   committed-date="2012-11-03T14:53:12.699776Z"
+   checksum="4cb22810ddf5c00b5e155b1f64a9fd95"
+   last-author="yejunting"
+   kind="file"
+   prop-time="2012-11-03T14:38:03.678391Z"/>
+<entry
+   committed-rev="321"
+   name="nr.fsa"
+   text-time="2011-01-10T05:47:52.000000Z"
+   committed-date="2012-11-03T14:53:12.699776Z"
+   checksum="27c3ea4de2e5d7678f3e678d77292fe4"
+   last-author="yejunting"
+   kind="file"
+   prop-time="2012-11-03T14:37:58.778110Z"/>
+<entry
+   committed-rev="321"
+   name="GranDict.pos"
+   text-time="2011-01-10T05:47:52.000000Z"
+   committed-date="2012-11-03T14:53:12.699776Z"
+   checksum="0e44d42204030e53cfb454dabc20ebfe"
+   last-author="yejunting"
+   kind="file"
+   prop-time="2012-11-03T14:38:09.765739Z"/>
+<entry
+   committed-rev="321"
+   name="CoreDict.pos"
+   text-time="2011-01-10T05:47:52.000000Z"
+   committed-date="2012-11-03T14:53:12.699776Z"
+   checksum="8cbca7440f533e079c5a86c9d31733b0"
+   last-author="yejunting"
+   kind="file"
+   prop-time="2012-11-03T14:38:07.106587Z"/>
+<entry
+   committed-rev="321"
+   name="CoreDict.unig"
+   text-time="2011-01-10T05:47:52.000000Z"
+   committed-date="2012-11-03T14:53:12.699776Z"
+   checksum="6b9332b404e85ceded463482ea550703"
+   last-author="yejunting"
+   kind="file"
+   prop-time="2012-11-03T14:38:09.299712Z"/>
+<entry
+   committed-rev="321"
+   name="ICTCLAS_First.map"
+   text-time="2011-01-10T05:47:52.000000Z"
+   committed-date="2012-11-03T14:53:12.699776Z"
+   checksum="9330346ea9672f7b28bb3bffad532f30"
+   last-author="yejunting"
+   kind="file"/>
+<entry
+   committed-rev="321"
+   name="PKU.map"
+   text-time="2011-01-10T05:47:52.000000Z"
+   committed-date="2012-11-03T14:53:12.699776Z"
+   checksum="2dd78115982a8317defb4196ed32be32"
+   last-author="yejunting"
+   kind="file"/>
+<entry
+   committed-rev="321"
+   name="nr.ctx"
+   text-time="2011-01-10T05:47:52.000000Z"
+   committed-date="2012-11-03T14:53:12.699776Z"
+   checksum="d687361a439e5578f0254ed4b692ef06"
+   last-author="yejunting"
+   kind="file"
+   prop-time="2012-11-03T14:38:04.259424Z"/>
+<entry
+   committed-rev="321"
+   name="character.type"
+   text-time="2011-01-10T05:47:52.000000Z"
+   committed-date="2012-11-03T14:53:12.699776Z"
+   checksum="fa90ae3a38c225c0860f3391ac411c1a"
+   last-author="yejunting"
+   kind="file"
+   prop-time="2012-11-03T14:38:07.173591Z"/>
+<entry
+   committed-rev="321"
+   name="ICTPOS.map"
+   text-time="2011-01-10T05:47:52.000000Z"
+   committed-date="2012-11-03T14:53:12.699776Z"
+   checksum="bf7988ab5161446d6cb02bdb73b88560"
+   last-author="yejunting"
+   kind="file"/>
+<entry
+   committed-rev="321"
+   name="FieldDict.pdat"
+   text-time="2011-01-10T05:47:52.000000Z"
+   committed-date="2012-11-03T14:53:12.699776Z"
+   checksum="030fc7fba27ef0daebbef07d95b5177f"
+   last-author="yejunting"
+   kind="file"
+   prop-time="2012-11-03T14:38:00.699220Z"/>
+</wc-entries>
