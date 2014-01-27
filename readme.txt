@@ -1,1 +1,0 @@
-如果连接不上HDFS，将工程根目录下的hosts文件替换系统中的hosts（C:\Windows\System32\drivers\etc）。
